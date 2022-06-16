@@ -1,5 +1,5 @@
 ### Olá Sou Paulo Medeiros, Estudante de Desenvolvimento Web da Trybe!
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" />
 
 <div align="center">
   <a href="https://github.com/PauloMedeiros1879">
