@@ -17,9 +17,18 @@
   
   ## Minhas Redes Sociais
  
-<div> 
-  <a href="https://www.instagram.com/paulo_alexandre_lm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-medeiros-dev1879/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/PauloMedeiros1879" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/paulo_alexandre_lm/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/profile.php?id=100015255048961" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/paulo-medeiros-dev1879/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
   
    ![Snake animation](https://github.com/PauloMedeiros1879/PauloMedeiros1879/blob/output/github-contribution-grid-snake.svg)
 </div>
