@@ -5,7 +5,8 @@
     
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMedeiros1879&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-  
+
+## Tecnologias e Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +15,7 @@
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  ## Minhas Redes Sociais
  
 <div> 
   <a href="https://www.instagram.com/paulo_alexandre_lm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
