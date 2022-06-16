@@ -1,4 +1,6 @@
 ### Olá Sou Paulo Medeiros, Estudante de Desenvolvimento Web da Trybe!
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
 <div align="center">
   <a href="https://github.com/PauloMedeiros1879">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PauloMedeiros1879&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
