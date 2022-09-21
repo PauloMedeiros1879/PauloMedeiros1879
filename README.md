@@ -1,3 +1,16 @@
+<a href="https://github.com/PauloMedeiros1879" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/paulo_alexandre_lm/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/profile.php?id=100015255048961" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/paulo-medeiros-dev1879/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
 ### Olá Sou Paulo Medeiros, Estudante de Desenvolvimento Web da Trybe!
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" />
 
@@ -16,21 +29,6 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ## Minhas Redes Sociais
- 
-  <a href="https://github.com/PauloMedeiros1879" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/paulo_alexandre_lm/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/profile.php?id=100015255048961" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/paulo-medeiros-dev1879/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
   
    ![Snake animation](https://github.com/PauloMedeiros1879/PauloMedeiros1879/blob/output/github-contribution-grid-snake.svg)
 </div>
