@@ -11,7 +11,7 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-### Olá, me chamo Paulo Medeiros, sou do interior do Amazonas, Brasil e atualmente estudo na Trybe 🚀.
+### Olá, me chamo Paulo Medeiros, sou do interior do Amazonas, Brasil e atualmente sou Desenvolvedor Full-Stack, formado pela Trybe 🚀.
 
 #### Meus interesses pessoais:
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="140em"/>
