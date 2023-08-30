@@ -16,7 +16,7 @@
 #### Meus interesses pessoais:
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="140em"/>
 <ul>
-  <li>👨🏽‍💻 Estou estudando Orientação a objetos para conseguir escrever códigos melhores e mais reutilizáveis;</li>
+  <li>👨🏽‍💻 Estou estudando novas linguangens e praticando as que eu tenho conhecimento para me aprimorar cada vez mais;</li>
   <li>🥳 Meus hobbies são codar e jogos online;</li>
   <li>💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;</li>
   <li>📧 Por favor, envie um email para paulomedeiros1879@hotmail.com para me encontrar.</li>
