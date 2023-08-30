@@ -54,5 +54,4 @@
   <img align="center" alt="Skill_Python" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=angular&logoColor=white>
 </div>
   
-   ![Snake animation](https://github.com/PauloMedeiros1879/PauloMedeiros1879/blob/output/github-contribution-grid-snake.svg)
 </div>
