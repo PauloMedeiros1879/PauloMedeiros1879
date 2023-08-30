@@ -51,6 +51,7 @@
   <img align="center" alt="Skill_Sequelize" src=https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white>
   <img align="center" alt="Skill_Git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
   <img align="center" alt="Skill_Angular" src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>
+  <img align="center" alt="Skill_Python" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=angular&logoColor=white>
 </div>
   
    ![Snake animation](https://github.com/PauloMedeiros1879/PauloMedeiros1879/blob/output/github-contribution-grid-snake.svg)
