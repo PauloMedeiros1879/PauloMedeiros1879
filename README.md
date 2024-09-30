@@ -1,7 +1,7 @@
 <a href="https://github.com/PauloMedeiros1879" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="[https://www.instagram.com/paulo_alexandre_lm/](https://www.instagram.com/paulomedeirosdev/)" target="_blank">
+<a href="https://www.instagram.com/paulomedeirosdev/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
 <a href="https://www.facebook.com/profile.php?id=100015255048961" target="_blank">
